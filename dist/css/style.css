@@ -1096,6 +1096,9 @@ body {
   padding-right: .5em;
   padding-left: .5em; }
 
+.prod-item {
+  display: block; }
+
 .prod-item__img {
   position: relative;
   padding-bottom: 100%; }

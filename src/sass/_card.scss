@@ -379,6 +379,10 @@
 }
 
 //.prod-item
+.prod-item {
+  display: block;
+}
+
 .prod-item__img {
   position: relative;
   padding-bottom: 100%;
